@@ -7,3 +7,6 @@ _build/
 Lab*.ipynb
 lab*.ipynb
 .venv/
+
+# MyST build outputs
+_build
